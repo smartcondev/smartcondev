@@ -16,40 +16,6 @@ I'm a full-stack web3 developer from the India. I mainly code in Javascript aand
 <img src="./assets/ethereum.svg" width="180px" height="150px" alt="Ethereum" />
 <img src="./assets/thecelo.png" width="180x" height="150px" alt="Ethereum" />
 
-### **Frontend Stack**
-<br/>
-
-![html](./assets/001-html-5.png)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![css](./assets/002-css-3.png)
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/tailwind.png" width="128px" height="128px">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/003-java-script.png" width="128px" height="128px">
-&nbsp;&nbsp;&nbsp;&nbsp;
-![React](./assets/004-react.png)
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/nextjs.png" width="128px" height="128px" alt="next.js" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/graphql.png" width="128px" height="128px" alt="graphql" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-## **Backend Stack**
-<br/>
-
-<img src="./assets/solidity.svg" width="180px" height="150px" alt="solidity" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/hardhat.jpg" width="180px" height="150px" alt="hardhat" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/thegraph.avif" width="180px" height="150px" alt="The Graph" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/chainlink.png" width="180px" height="150px" alt="chainlink" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/ceramic.png" width="180px" height="150px" alt="Ceramic" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-## **My Github Numbers**
 
 ### **Github Streaks Stats**
 
