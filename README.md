@@ -29,40 +29,7 @@ I am an aspiring Developer Advocate with a strong passion for building subgraphs
 </br>
 </br>
 
-## **My Soacial links**
-<br/>
-<br/>
 
-[![Twitter][1.1]][1]
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkdin][2.1]][2]
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Github][3.1]][3]
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Instagram][4.1]][4]
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-[1.1]: ./assets/002-twitter.png (twitter icon with padding)
-[2.1]: ./assets/001-linkedin.png (Linkdin icon with padding)
-[3.1]: ./assets/004-github.png (Github icon with padding)
-[4.1]: ./assets/003-instagram.png (Instagram icon with padding)
-
-
-[1]: https://twitter.com/subgraphdev
-[2]: https://www.linkedin.com/in/ujjwal-thakur-44aa5823a/
-[3]: https://github.com/subgraphdev
-[4]: https://www.instagram.com/subgraphdev/
 
 
 
