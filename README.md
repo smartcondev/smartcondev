@@ -1,6 +1,6 @@
 # Hello, Everyone!👋
 
-![GitHub Banner](./assets/githubbanner.png)
+![GitHub Banner](./assets/banner.jpeg)
 
 
 I am a Web3 enthusiast who effortlessly weaves words and code. As a Technical Writer, I demystify Web3 intricacies, making them easily understandable to all. Meanwhile, as a Rust and Solidity developer, I love work and build cutting-edge solutions for the decentralized world.
